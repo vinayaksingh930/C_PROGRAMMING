@@ -15,9 +15,9 @@ int main()
      }
     
      if(x==res)
-     printf("armstron");
+     printf("armstrong");
      else
-     printf("not armoston");
+     printf("not armstrong");
 
     return 0;
 }
